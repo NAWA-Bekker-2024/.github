@@ -6,7 +6,7 @@ The project aims to develop new estimators for non-probability samples suffering
 
 ## Funding
 
-Research funded by the Polish National Agency for Academic Exchange (NAWA) under The Bekker NAWA Programme, grant number BPN/BEK/2023/1/00099/U/00001 (visit at University of Manchester)
+Research funded by the Polish National Agency for Academic Exchange (NAWA) under The Bekker NAWA Programme, grant number BPN/BEK/2023/1/00099/U/00001 (visit at University of Manchester betwee 06.2024-09.2024)
 
 [![](logo-nawa.png)](https://nawa.gov.pl/en/)
 
