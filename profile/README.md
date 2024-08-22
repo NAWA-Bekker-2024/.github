@@ -11,3 +11,15 @@ Research funded by the Polish National Agency for Academic Exchange (NAWA) under
 [![](logo-nawa.png)](https://nawa.gov.pl/en/)
 
 ## Outputs
+
+### Working papers
+
++ [Inference for non-probability samples under mis-classification error](https://github.com/NAWA-Bekker-2024/paper-misclass-nonprob)
++ [Latent markov model for job vacancy statistics]()
+
+### Presentations
+
+### Data
+
+TBA
+
